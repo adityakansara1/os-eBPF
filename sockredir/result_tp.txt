@@ -1,0 +1,52 @@
+size: bytes
+thr unit: 1e6 bits/s
+
+size    : 40
+bpf     : 40768
+tcp     : 30143
+tcp -D  : 30950
+
+size    : 90000
+bpf     : 39055
+tcp     : 30793
+tcp -D  : 31179
+
+size    : 80000
+bpf     : 38866
+tcp     : 28801
+tcp -D  : 29551
+
+size    : 70000
+bpf     : 37152
+tcp     : 28242
+tcp -D  : 28539
+
+size    : 60000
+bpf     : 35964
+tcp     : 30793
+tcp -D  : 29944
+
+size    : 50000
+bpf     : 33953
+tcp     : 30070
+tcp -D  : 28955
+
+size    : 40000
+bpf     : 31470
+tcp     : 27979
+tcp -D  : 26297
+
+size    : 30000
+bpf     : 27452
+tcp     : 26169
+tcp -D  : 23283
+
+size    : 20000
+bpf     : 19035
+tcp     : 25185
+tcp -D  : 20105
+
+size    : 10000
+bpf     : 11644
+tcp     : 21464
+tcp -D  : 13148
